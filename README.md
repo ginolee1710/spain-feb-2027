@@ -1,6 +1,6 @@
 # Spain Feb 2027 itinerary (static)
 
-Plain HTML / CSS / JS single-page itinerary for Gino + GF (Fri 12 – Sat 20 Feb 2027).
+Plain HTML / CSS / JS single-page itinerary for Gino + GF (Sat 13 – Sun 21 Feb 2027; Mon 22 rest in HK).
 No build step, no dependencies. Styled like the portfolio-preview site (sticky nav, light/dark, cards).
 
 ```
@@ -27,9 +27,8 @@ Then visit http://localhost:8000
 2. Settings → Pages → Deploy from branch → `main` / root.
 3. Optional: encrypt with StatiCrypt before publish (same flow as portfolio-preview). Keep the password out of git and out of this README.
 
-The published page is password-gated. The unlock password is not stored in this repository.
-
 ## Notes
-- Nothing is booked. GF feedback is the booking blocker.
-- Hotel photos are **style references** — confirm the live property on Booking.com.
-- Currency HKD. Prices as of 25 Oct 2026 HKT.
+- Nothing is booked. GF dates preference (13–21) is accepted; exact-price yes is still the booking blocker.
+- Hotel photos are **style references** — confirm the live property on Expedia/Booking.com.
+- Currency HKD. Prices as of 4 Nov 2026 HKT.
+- Working flights: CX297 Sat 13 / CX372 Sun 21 (PE Essential).
