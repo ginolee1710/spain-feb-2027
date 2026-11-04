@@ -32,3 +32,4 @@ Then visit http://localhost:8000
 - Hotel photos are **style references** — confirm the live property on Expedia/Booking.com.
 - Currency HKD. Prices as of 4 Nov 2026 HKT.
 - Working flights: CX297 Sat 13 / CX372 Sun 21 (PE Essential).
+
