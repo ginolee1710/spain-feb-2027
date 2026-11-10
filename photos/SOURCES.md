@@ -24,3 +24,8 @@ Hotel images are **style references** (boutique/suite stock) — confirm the liv
 | 16-tapas.jpg | Shared table dining / tapas vibe | Pexels | https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg |
 
 Photographer names: where Unsplash/Pexels pages were bot-blocked, captions credit “Photo via Unsplash” / “Photo via Pexels” with the CDN URL above. Known: Sagrada Família hero commonly attributed on Unsplash search to Andreeew Hoang (@andeeew) for related Sagrada shots; Pexels 819764 via Pexels library.
+# New thumbs added 10 Nov 2026 HKT
+
+- photos/17-indoor-karting-bcn.jpg — official track photo `pistaKarting01.webp` from indoorkartingbarcelona.com/en/karting/ (venue site, retrieved 10 Nov 2026). Credit: Indoor Karting Barcelona.
+- photos/16-portal-angel.jpg — Wikimedia Commons File:Avinguda del Portal de l'Àngel, Barcelona - panoramio (1).jpg, CC BY 3.0, photographer ktanaka, 12 Oct 2009.
+- photos/16-eci-catalunya.jpg — Wikimedia Commons File:El Corte Inglés Barcelona Plaça de Catalunya 2013.jpg, CC BY 3.0, photographer Felix König, 22 May 2013. Daylight façade of El Corte Inglés, Plaça de Catalunya 14.
